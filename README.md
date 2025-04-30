@@ -5,11 +5,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/komi-ayi](https://www.linkedin.com/in/komi-ayi/)
 
 ## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recruitment scholarships from the Faculty Research Center in Statistics and Data Science (STATQAM)
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+- Excellence Scholarship from the Institut des sciences mathématiques du Québec (ISM) for research in causal mediation analysis (2022–2023).
+- Recruitment Scholarship from the Faculty Research Center in Statistics and Data Science at UQAM, STATQAM (2021).
+- Excellence Scholarship from the African Center of Excellence in Mathematical Sciences and Applications funded by the World Bank, for research on the controllability of integro-differential equations within the Mathematics Laboratory of the Institute of Mathematics and Physical Sciences (2018–2019).
+- Scholarship from the ERMIT Program (Entrepreneurship, Resources, Management, Innovation, and Technologies) for a Master’s degree in Statistics–Probability (2015–2017).
 
 ## Projects
 
