@@ -39,6 +39,5 @@ In this project I have used survival analysis to study how the likelihood of the
 ## Certificates
 - [Google Advanced Data Analytics](https://github.com/komiayi/komiayi.github.io/blob/main/Certificates/Coursera%202REIFKX25FFF.pdf
 )
-    - [Foundations of Data Science](https://github.com/komiayi/komiayi.github.io/blob/main/Certificates/Coursera%202REIFKX25FFF.pdf
-)
-    - [Get started with Python](https://github.com/komiayi/komiayi.github.io/blob/main/Certificates/Coursera%20VLJML8RZZDJA.pdf)
+    - [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/2REIFKX25FFF)
+    - [Get started with Python](https://www.coursera.org/account/accomplishments/verify/VLJML8RZZDJA)
