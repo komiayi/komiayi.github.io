@@ -27,6 +27,12 @@ Feel free to explore the repository and contact me for collaboration or opportun
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 
+
+
+
+
+
+
 ## Micro Projects
 
 - ### R Packages
