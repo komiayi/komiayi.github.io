@@ -8,6 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
 - [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
 - Winner of a TAMU Datathon 2020 among 50+ teams.
+- Recruitment scholarships from the Faculty Research Center in Statistics and Data Science (STATQAM)
 - Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
 
 ## Projects
