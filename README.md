@@ -24,25 +24,15 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-
-
-
-
-
-
-
 ## Micro Projects
 
 - ### R Packages
-    - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
-    
+
 - ### Challenges
     
 ## Core Competencies
-- **Methodologies**: Causal mediation, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL
+- **Methodologies**: Causal mediation, Statistics
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL
 - **Tools**: SQLiteStudio, Tableau
 
 ## Certificates
