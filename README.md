@@ -1,5 +1,17 @@
-# Data Science Portfolio - Komi Ayi
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+# Statistics and Data Analysis Portfolio – Komi Ayi  
+**Statistician | Data Analyst | Research & Innovation**
+
+Welcome to my professional portfolio.
+
+I am a statistician with a strong academic background in mathematics and a specialization in applied statistics.  
+I hold a Master’s degree focused on causal modeling and its applications in health research.
+
+This portfolio presents a curated selection of my academic, research, and personal projects involving data analysis, statistical modeling, and causal inference.  
+It also includes an overview of my technical skills, certifications, and key achievements.
+
+My work reflects a commitment to rigorous methodology, innovation, and the practical use of data to support decision-making—particularly in public health and research contexts.
+
+Feel free to explore the repository and contact me for collaboration or opportunities.
 
 - **Email**: [ayi1rogera@gmail.com](ayi1rogera@gmail.com)
 - **LinkedIn**: [linkedin.com/komi-ayi](https://www.linkedin.com/in/komi-ayi/)
