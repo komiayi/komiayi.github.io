@@ -1,4 +1,4 @@
-# Data Science Portfolio - Arch Desai
+# Data Science Portfolio - Komi Ayi
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
