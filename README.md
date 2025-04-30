@@ -37,6 +37,8 @@ In this project I have used survival analysis to study how the likelihood of the
 - **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
 
 ## Certificates
-- [Google Advanced Data Analytics](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Deep%20Learning%20Specialization.pdf)
-    - [Foundations of Data Science](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Neural%20Networks%20and%20Deep%20Learning.pdf)
-    - [Get started with Python](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Structuring%20Machine%20Learning%20Projects.pdf)
+- [Google Advanced Data Analytics](https://github.com/komiayi/komiayi.github.io/blob/main/Certificates/Coursera%202REIFKX25FFF.pdf
+)
+    - [Foundations of Data Science](https://github.com/komiayi/komiayi.github.io/blob/main/Certificates/Coursera%202REIFKX25FFF.pdf
+)
+    - [Get started with Python](https://github.com/komiayi/komiayi.github.io/blob/main/Certificates/Coursera%20VLJML8RZZDJA.pdf)
