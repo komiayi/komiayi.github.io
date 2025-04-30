@@ -9,7 +9,7 @@ I hold a Master’s degree focused on causal modeling and its applications in he
 This portfolio presents a curated selection of my academic, research, and personal projects involving data analysis, statistical modeling, and causal inference.  
 It also includes an overview of my technical skills, certifications, and key achievements.
 
-My work reflects a commitment to rigorous methodology, innovation, and the practical use of data to support decision-making—particularly in public health and research contexts.
+My work reflects a commitment to rigorous methodology, innovation, and the practical use of data to support decision-making-particularly in public health and research contexts.
 
 Feel free to explore the repository and contact me for collaboration or opportunities.
 
