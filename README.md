@@ -27,7 +27,7 @@ Feel free to explore the repository and contact me for collaboration or opportun
 ## Micro Projects
 
 - ### R Packages
-      -[MixLaw](https://github.com/komiayi/MixLaw)
+  - [MixLaw](https://github.com/komiayi/MixLaw)
 
 - ### Challenges
     
