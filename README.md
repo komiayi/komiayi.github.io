@@ -38,5 +38,11 @@ Feel free to explore the repository and contact me for collaboration or opportun
 ## Certificates
 - [Google Advanced Data Analytics](https://github.com/komiayi/komiayi.github.io/blob/main/Certificates/Coursera%202REIFKX25FFF.pdf
 )
-    - [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/2REIFKX25FFF)
+    - [Google Advanced Data Analytics Capstone]()
+    - [The Nuts and Bolts of Machine Learning]()
+    - [Regression Analysis: Simplify Complex Data Relationships]()
+    - [The Power of Statistics]()
+    - [Go Beyond the Numbers](https://www.coursera.org/account/accomplishments/verify/KTGLU02ZLC2K)
     - [Get started with Python](https://www.coursera.org/account/accomplishments/verify/VLJML8RZZDJA)
+    - [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/2REIFKX25FFF)
+    
