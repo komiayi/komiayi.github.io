@@ -27,8 +27,7 @@ Feel free to explore the repository and contact me for collaboration or opportun
 ## Micro Projects
 
 - ### R Packages
-  - [MixLaw](https://github.com/komiayi/MixLaw): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me
-
+  - [MixLaw](https://github.com/komiayi/MixLaw): This package implements a class for modeling a mixture of distributions. It enables the generation of observations from the mixture, provides a density representation, and calculates the mean and quantiles of the generated observations, all developed by me.
 - ### Challenges
     
 ## Core Competencies
