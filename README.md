@@ -40,7 +40,7 @@ Feel free to explore the repository and contact me for collaboration or opportun
 )
     - [Google Advanced Data Analytics Capstone]()
     - [The Nuts and Bolts of Machine Learning]()
-    - [Regression Analysis: Simplify Complex Data Relationships]()
+    - [Regression Analysis: Simplify Complex Data Relationships](https://www.coursera.org/account/accomplishments/certificate/QNM59ALSB8JX)
     - [The Power of Statistics](https://www.coursera.org/account/accomplishments/verify/1VZPPBSZW8VZ)
     - [Go Beyond the Numbers](https://www.coursera.org/account/accomplishments/verify/KTGLU02ZLC2K)
     - [Get started with Python](https://www.coursera.org/account/accomplishments/verify/VLJML8RZZDJA)
