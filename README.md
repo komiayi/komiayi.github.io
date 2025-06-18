@@ -37,8 +37,7 @@ Feel free to explore the repository and contact me for collaboration or opportun
 - **Tools**: SQLiteStudio, Tableau
 
 ## Certificates
-- [Google Advanced Data Analytics](https://github.com/komiayi/komiayi.github.io/blob/main/Certificates/Coursera%202REIFKX25FFF.pdf
-)
+- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/93YW7B6ODR0U)
     - [Google Advanced Data Analytics Capstone]()
     - [The Nuts and Bolts of Machine Learning]()
     - [Regression Analysis: Simplify Complex Data Relationships](https://coursera.org/share/ba480a8f8584086658c4aaf443656cd9)
