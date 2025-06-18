@@ -38,8 +38,8 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 ## Certificates
 - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/93YW7B6ODR0U)
-    - [Google Advanced Data Analytics Capstone]()
-    - [The Nuts and Bolts of Machine Learning]()
+    - [Google Advanced Data Analytics Capstone](https://www.coursera.org/account/accomplishments/verify/HEFB7OM479ZC)
+    - [The Nuts and Bolts of Machine Learning](https://www.coursera.org/account/accomplishments/verify/NHM4UFCKSGK3)
     - [Regression Analysis: Simplify Complex Data Relationships](https://coursera.org/share/ba480a8f8584086658c4aaf443656cd9)
     - [The Power of Statistics](https://www.coursera.org/account/accomplishments/verify/1VZPPBSZW8VZ)
     - [Go Beyond the Numbers](https://www.coursera.org/account/accomplishments/verify/KTGLU02ZLC2K)
