@@ -26,7 +26,14 @@ Feel free to explore the repository and contact me for collaboration or opportun
 ## Projects
 
 ## Micro Projects
-
+- ## 📈 Projets de Machine Learning
+  ### **Arbres de Régression et Méthodes d'Ensembles : Erreur Quadratique Moyenne et Stabilité**
+* **Description :** Ce projet académique explore et compare la stabilité et l'erreur quadratique moyenne des arbres de régression, du bagging et des forêts aléatoires, des techniques fondamentales en apprentissage automatique.
+* **Technologies :** R (rpart, randomForest, tidyverse, ipred)
+* **Voir le projet :** [Dépôt GitHub du projet](https://github.com/komiayi/regression-trees-ensemble-methods) * **Consulter le rapport :** [Rapport complet du projet](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/Ayi_Projet_MAT8886_Commentaires.pdf) ### **[Titre de votre 2ème projet ML]**
+* **Description :** [Brève description]
+* **Technologies :** [Langages et librairies]
+* **Voir le projet :** [Lien vers le dépôt GitHub du 2ème projet]
 - ### R Packages
   - [MixLaw](https://github.com/komiayi/MixLaw): This package implements a class for modeling a mixture of distributions. It enables the generation of observations from the mixture, provides a density representation, and calculates the mean and quantiles of the generated observations, all developed by me.
 - ### Challenges
