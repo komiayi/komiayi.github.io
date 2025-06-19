@@ -26,14 +26,17 @@ Feel free to explore the repository and contact me for collaboration or opportun
 ## Projects
 
 ## Micro Projects
-- ## 📈 Projets de Machine Learning
+- ## Machine Learning
   ### **Arbres de Régression et Méthodes d'Ensembles : Erreur Quadratique Moyenne et Stabilité**
-* **Description :** Ce projet académique explore et compare la stabilité et l'erreur quadratique moyenne des arbres de régression, du bagging et des forêts aléatoires, des techniques fondamentales en apprentissage automatique.
-* **Technologies :** R (rpart, randomForest, tidyverse, ipred)
-* **Voir le projet :** [Dépôt GitHub du projet](https://github.com/komiayi/regression-trees-ensemble-methods) * **Consulter le rapport :** [Rapport complet du projet](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/Ayi_Projet_MAT8886_Commentaires.pdf) ### **[Titre de votre 2ème projet ML]**
-* **Description :** [Brève description]
-* **Technologies :** [Langages et librairies]
-* **Voir le projet :** [Lien vers le dépôt GitHub du 2ème projet]
+
+* **Description Succincte :** Ce projet académique approfondit l'étude comparative des arbres de régression, du Bagging et des Forêts Aléatoires, en se concentrant sur leur **précision (MSE)** et leur **stabilité**. Il démontre comment les méthodes d'ensembles surmontent l'instabilité inhérente des arbres de régression simples pour construire des modèles prédictifs plus **robustes et fiables**.
+* **Problématique Clé :** Réduire la sensibilité des modèles d'arbres de régression aux variations des données et améliorer leur performance générale grâce aux techniques d'agrégation.
+* **Compétences Techniques Démontrées :** Modélisation prédictive (Arbres de Régression, Bagging, Random Forests), Évaluation de modèles (MSE, analyse de stabilité), Simulation Monte-Carlo, Application sur données réelles, Programmation R.
+* **Résultats Principaux :** Les Forêts Aléatoires se sont avérées être la méthode la plus performante et la plus stable, réduisant significativement l'erreur quadratique moyenne et augmentant la robustesse des prédictions par rapport aux arbres de régression individuels.
+* **Technologies Utilisées :** R (`rpart`, `randomForest`, `tidyverse`, `ipred`).
+
+**👉 [Voir le projet détaillé sur GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)**
+
 - ### R Packages
   - [MixLaw](https://github.com/komiayi/MixLaw): This package implements a class for modeling a mixture of distributions. It enables the generation of observations from the mixture, provides a density representation, and calculates the mean and quantiles of the generated observations, all developed by me.
 - ### Challenges
