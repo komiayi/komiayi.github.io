@@ -36,7 +36,7 @@ Key findings consistently demonstrate that Random Forests emerged as the most pe
 
 **👉 [View Detailed Project on GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)**
 
-- ### **R Packages** [**MixLaw**](https://github.com/komiayi/MixLaw)
+- ### **R Package** [**MixLaw**](https://github.com/komiayi/MixLaw)
   A custom R package I developed for **modeling and simulating mixture distributions**. MixLaw provides a robust framework to generate observations, define density functions, and compute essential statistics such as means and quantiles for complex mixtures of various underlying distributions. This tool simplifies the handling of heterogeneous data structures in statistical modeling.
     
 ## Core Competencies
