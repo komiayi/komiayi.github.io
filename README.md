@@ -26,6 +26,19 @@ Feel free to explore the repository and contact me for collaboration or opportun
 ## Projects
 
 ## Micro Projects
+### **Regression Trees and Ensemble Methods: Mean Squared Error and Stability**
+
+This academic project delves into a comparative study of regression trees, Bagging, and Random Forests, focusing on their **prediction accuracy (MSE)** and **stability**. It rigorously demonstrates how ensemble methods effectively overcome the inherent instability of single regression trees to construct more **robust and reliable** predictive models.
+
+The central challenge addressed is the reduction of regression tree models' sensitivity to data variations and the enhancement of their overall performance through aggregation techniques. This work showcases robust technical skills in predictive modeling (Regression Trees, Bagging, Random Forests), model evaluation (MSE, stability analysis), Monte Carlo simulation, and real-world data application, all implemented in R.
+
+Key findings consistently demonstrate that Random Forests emerged as the most performant and stable method, significantly reducing the mean squared error and enhancing prediction robustness compared to individual regression trees. The technologies employed include the R programming language and the `rpart`, `randomForest`, `tidyverse` (for `dplyr` and `ggplot2`), and `ipred` packages.
+
+**👉 [View Detailed Project on GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)**
+
+---
+
+
 - ## Arbres de Régression et Méthodes d'Ensembles : Erreur Quadratique Moyenne et Stabilité**
 Ce projet académique approfondit l'étude comparative des arbres de régression, du Bagging et des Forêts Aléatoires, en se concentrant sur leur **précision (MSE)** et leur **stabilité**. Il démontre comment les méthodes d'ensembles surmontent l'instabilité inhérente des arbres de régression simples pour construire des modèles prédictifs plus **robustes et fiables**.
 
