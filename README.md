@@ -26,8 +26,7 @@ Feel free to explore the repository and contact me for collaboration or opportun
 ## Projects
 
 ## Micro Projects
-- ## Machine Learning
-  ### **Arbres de Régression et Méthodes d'Ensembles : Erreur Quadratique Moyenne et Stabilité**
+- ## Arbres de Régression et Méthodes d'Ensembles : Erreur Quadratique Moyenne et Stabilité**
 Ce projet académique approfondit l'étude comparative des arbres de régression, du Bagging et des Forêts Aléatoires, en se concentrant sur leur **précision (MSE)** et leur **stabilité**. Il démontre comment les méthodes d'ensembles surmontent l'instabilité inhérente des arbres de régression simples pour construire des modèles prédictifs plus **robustes et fiables**.
 
 La problématique centrale abordée est de réduire la sensibilité des modèles d'arbres de régression aux variations des données et d'améliorer leur performance générale grâce aux techniques d'agrégation. Ce travail met en évidence des compétences techniques solides en modélisation prédictive (Arbres de Régression, Bagging, Random Forests), en évaluation de modèles (MSE, analyse de stabilité), en simulation Monte-Carlo et en application sur données réelles, le tout programmé en R.
