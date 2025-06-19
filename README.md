@@ -37,6 +37,19 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 **👉 [Voir le projet détaillé sur GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)**
 
+
+### **Arbres de Régression et Méthodes d'Ensembles : Erreur Quadratique Moyenne et Stabilité**
+
+Ce projet académique approfondit l'étude comparative des arbres de régression, du Bagging et des Forêts Aléatoires, en se concentrant sur leur **précision (MSE)** et leur **stabilité**. Il démontre comment les méthodes d'ensembles surmontent l'instabilité inhérente des arbres de régression simples pour construire des modèles prédictifs plus **robustes et fiables**.
+
+La problématique centrale abordée est de réduire la sensibilité des modèles d'arbres de régression aux variations des données et d'améliorer leur performance générale grâce aux techniques d'agrégation. Ce travail met en évidence des compétences techniques solides en modélisation prédictive (Arbres de Régression, Bagging, Random Forests), en évaluation de modèles (MSE, analyse de stabilité), en simulation Monte-Carlo et en application sur données réelles, le tout programmé en R.
+
+Les résultats principaux confirment que les Forêts Aléatoires se sont avérées être la méthode la plus performante et la plus stable, réduisant significativement l'erreur quadratique moyenne et augmentant la robustesse des prédictions par rapport aux arbres de régression individuels. Les technologies utilisées incluent le langage R et les packages `rpart`, `randomForest`, `tidyverse` (pour `dplyr` et `ggplot2`), et `ipred`.
+
+**👉 [Voir le projet détaillé sur GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)**
+
+---
+
 - ### R Packages
   - [MixLaw](https://github.com/komiayi/MixLaw): This package implements a class for modeling a mixture of distributions. It enables the generation of observations from the mixture, provides a density representation, and calculates the mean and quantiles of the generated observations, all developed by me.
 - ### Challenges
