@@ -27,7 +27,8 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 - ### **Waze Churn Prediction**
 A clean and comprehensive Jupyter Notebook project to predict users at high risk of churn using machine learning. It includes data preprocessing, feature engineering, model training (Random Forest & XGBoost), and dynamic threshold optimization to strike the best trade-off between precision and recall (maximizing F1‑score). Visuals—such as ROC and Precision‑Recall curves—highlight performance, with strategic insights for business implementation.
-   🔗 [View Project on GitHub](https://github.com/komiayi/churn-waze-prediction-)
+
+  **🔗 [View Project on GitHub](https://github.com/komiayi/churn-waze-prediction-)
 
 
 - ### **Regression Trees and Ensemble Methods: Mean Squared Error and Stability**
@@ -38,7 +39,7 @@ The central challenge addressed is the reduction of regression tree models' sens
 
 Key findings consistently demonstrate that Random Forests emerged as the most performant and stable method, significantly reducing the mean squared error and enhancing prediction robustness compared to individual regression trees. The technologies employed include the R programming language and the `rpart`, `randomForest`, `tidyverse` (for `dplyr` and `ggplot2`), and `ipred` packages.
 
-  **👉 [View Detailed Project on GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)** , [Detailed Project Report (PDF, in French)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)  
+  **🔗 [View Detailed Project on GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)** , [Detailed Project Report (PDF, in French)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)  
 
 - ### **R Package** [**MixLaw**](https://github.com/komiayi/MixLaw)
   A custom R package I developed for **modeling and simulating mixture distributions**. MixLaw provides a robust framework to generate observations, define density functions, and compute essential statistics such as means and quantiles for complex mixtures of various underlying distributions. This tool simplifies the handling of heterogeneous data structures in statistical modeling.
