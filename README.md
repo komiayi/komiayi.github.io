@@ -25,7 +25,11 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 ## Projects
 
-## Micro Projects
+- ### **Waze Churn Prediction**
+A clean and comprehensive Jupyter Notebook project to predict users at high risk of churn using machine learning. It includes data preprocessing, feature engineering, model training (Random Forest & XGBoost), and dynamic threshold optimization to strike the best trade-off between precision and recall (maximizing F1‑score). Visuals—such as ROC and Precision‑Recall curves—highlight performance, with strategic insights for business implementation.
+> 🔗 [View Project on GitHub](https://github.com/komiayi/churn-waze-prediction-)
+
+
 - ### **Regression Trees and Ensemble Methods: Mean Squared Error and Stability**
 
 This academic project delves into a comparative study of regression trees, Bagging, and Random Forests, focusing on their **prediction accuracy (MSE)** and **stability**. It rigorously demonstrates how ensemble methods effectively overcome the inherent instability of single regression trees to construct more **robust and reliable** predictive models.
