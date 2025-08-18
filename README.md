@@ -28,7 +28,7 @@ Feel free to explore the repository and contact me for collaboration or opportun
 - ### **Waze Churn Prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
 
-  **👉[View Project Notebook on GitHub](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)**
+  **👉[View Project Notebook](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)**
 
 
 - ### **Regression Trees and Ensemble Methods: Mean Squared Error and Stability**
