@@ -26,16 +26,18 @@ Feel free to explore the repository and contact me for collaboration or opportun
 ## Projects
 
 
-- ### **Analyse de médiation causale**
-Ce projet présente l'application d'une méthode statistique avancée pour résoudre un problème critique en analyse de médiation multiple : l'estimation des effets en présence d'une cause commune non mesurée entre les médiateurs potentiels.
+- ### **Mediation analysis with unmeasured confounding**
+Domain: Biostatistics / Causal Modeling / Epigenetics
 
-Objectif : Étudier l'effet des traumatismes infantiles sur la réactivité au stress cortisonique, médiatisé par la méthylation de l'ADN (locus cg27512205).
+This project addresses a major challenge in multiple mediation analysis: estimating effects accurately when mediators are correlated due to an Unmeasured Common Cause (UCC).
 
-Contribution Technique : Implémentation et comparaison de deux approches novatrices (méthodes CC et CNC) pour identifier et corriger le biais induit par la corrélation non mesurée entre les médiateurs. Le travail confirme la robustesse d'un effet direct significatif du traumatisme.
+I applied and evaluated advanced statistical methods (CC and CNC methods) to analyze the influence of childhood trauma on cortisol stress reactivity via DNA methylation.
 
-Compétences démontrées : Modélisation statistique (R), Inférence Causale, Analyse de Médiation Avancée, Traitement de données biologiques.
+The implementation of this novel approach successfully corrected for confounding bias and confirmed the robustness of a significant direct causal effect.
 
-[Voir le projet complet sur GitHub] (Insérez ici le lien direct vers votre dépôt)
+Key Skills: Causal Inference, Advanced Statistical Modeling, R Programming.
+
+[View the Full Project on GitHub] (Insert your direct GitHub repository link here)
 
 - ### **Waze Churn Prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
