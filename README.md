@@ -32,12 +32,12 @@ Domain: Biostatistics / Causal Modeling / Epigenetics
 This project addresses a major challenge in multiple mediation analysis: estimating effects accurately when mediators are correlated due to an unmeasured common cause. I applied and evaluated advanced statistical methods to analyze the influence of childhood trauma on cortisol stress reactivity via DNA methylation. The implementation of this novel approach successfully corrected for confounding bias and confirmed the robustness of a significant direct causal effect.
 Key Skills: Causal Inference, Advanced Statistical Modeling, R Programming.
 
- **👉[View Detailed Project on GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)** , 
+ **👉[View detailed project](https://github.com/komiayi/dna_mediation)** , 
 
 - ### **Waze Churn Prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
 
-  **👉[View Project Notebook](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)**
+  **👉[View project notebook](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)**
 
 
 - ### **Regression Trees and Ensemble Methods: Mean Squared Error and Stability**
@@ -48,7 +48,7 @@ The central challenge addressed is the reduction of regression tree models' sens
 
 Key findings consistently demonstrate that Random Forests emerged as the most performant and stable method, significantly reducing the mean squared error and enhancing prediction robustness compared to individual regression trees. The technologies employed include the R programming language and the `rpart`, `randomForest`, `tidyverse` (for `dplyr` and `ggplot2`), and `ipred` packages.
 
-  **👉[View Detailed Project on GitHub](https://github.com/komiayi/regression-trees-ensemble-methods)** , [Detailed Project Report (PDF, in French)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)  
+  **👉[View detailed project](https://github.com/komiayi/regression-trees-ensemble-methods)** , [Detailed project report (PDF, in French)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)  
 
 - ### **R Package** [**MixLaw**](https://github.com/komiayi/MixLaw)
   A custom R package I developed for **modeling and simulating mixture distributions**. MixLaw provides a robust framework to generate observations, define density functions, and compute essential statistics such as means and quantiles for complex mixtures of various underlying distributions. This tool simplifies the handling of heterogeneous data structures in statistical modeling.
