@@ -60,7 +60,7 @@ Key findings consistently demonstrate that Random Forests emerged as the most pe
 - **Tools**: SQLiteStudio, Tableau
 
 ## Certificates
-- [Introducing DAX](https://www.sqlbi.com/account/certificates/)
+- [Introducing DAX](/files/dax.pdf)
 - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/93YW7B6ODR0U)
     - [Google Advanced Data Analytics Capstone](https://www.coursera.org/account/accomplishments/verify/HEFB7OM479ZC)
     - [The Nuts and Bolts of Machine Learning](https://www.coursera.org/account/accomplishments/verify/NHM4UFCKSGK3)
