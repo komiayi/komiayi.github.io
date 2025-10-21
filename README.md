@@ -30,9 +30,10 @@ Feel free to explore the repository and contact me for collaboration or opportun
 Domain: Biostatistics / Causal Modeling / Epigenetics
 
 This project addresses a major challenge in multiple mediation analysis: estimating effects accurately when mediators are correlated due to an unmeasured common cause. I applied and evaluated advanced statistical methods to analyze the influence of childhood trauma on cortisol stress reactivity via DNA methylation. The implementation of this novel approach successfully corrected for confounding bias and confirmed the robustness of a significant direct causal effect.
-Key Skills: Causal Inference, Advanced Statistical Modeling, R Programming.
 
- **👉[View detailed project](https://github.com/komiayi/dna_mediation)** , 
+Key Skills: Causal inference, advanced statistical modeling, R programming.
+
+ **👉[View detailed project](https://github.com/komiayi/dna_mediation)**  
 
 - ### **Waze Churn Prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
