@@ -17,10 +17,10 @@ Feel free to explore the repository and contact me for collaboration or opportun
 - **LinkedIn**: [linkedin.com/komi-ayi](https://www.linkedin.com/in/komi-ayi/)
 
 ## Achievements
-- Excellence Scholarship from the Institut des sciences mathématiques du Québec (ISM) for research in causal mediation analysis (2022–2023).
-- Recruitment Scholarship from the Faculty Research Center in Statistics and Data Science at UQAM, STATQAM (2021).
-- Excellence Scholarship from the African Center of Excellence in Mathematical Sciences and Applications funded by the World Bank, for research on the controllability of integro-differential equations within the Mathematics Laboratory of the Institute of Mathematics and Physical Sciences (2018–2019).
-- Scholarship from the ERMIT Program (Entrepreneurship, Resources, Management, Innovation, and Technologies) for a Master’s degree in Statistics–Probability (2015–2017).
+- Excellence scholarship from the Institut des Sciences Mathématiques du Québec (ISM) for research in causal mediation analysis (2022–2023).
+- Recruitment scholarship from the faculty research Center in Statistics and Data Science at UQAM, STATQAM (2021).
+- Excellence scholarship from the african center of excellence in mathematical sciences and applications funded by the World Bank, for research on the controllability of integro-differential equations within the mathematics laboratory of the Institute of Mathematics and Physical Sciences (2018–2019).
+- Scholarship from the ERMIT Program (Entrepreneurship, Resources, Management, Innovation, and Technologies) for a master’s degree in statistics–probability (2015–2017).
 
 ## Projects
 
