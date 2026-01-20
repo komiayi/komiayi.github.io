@@ -32,8 +32,8 @@ Predictive analytics and machine learning
 *The Technical Edge.* The core of the application is a multinomial logistic Regression model developed with Scikit-Learn. It processes complex team metrics—such as offensive efficiency and defensive resilience—to output precise winning, drawing, and losing percentages. The interface is a custom-built Streamlit dashboard, optimized for both light and dark modes with professional branding.
 
 *Key Competencies: 
-* Modeling: Logistic regression (Scikit-Learn)
-* Engineering: Data normalization and pipeline management (Pandas)
+  ** Modeling: Logistic regression (Scikit-Learn)
+  ** Engineering: Data normalization and pipeline management (Pandas)
   
     [![Launch the Live Application](https://img.shields.io/badge/Streamlit-Launch%20the%20Live%20Application-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ligue-1-predictor.streamlit.app/)
     [![Explore the Source Code](https://img.shields.io/badge/GitHub-Explore%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/Ligue-1)
