@@ -36,7 +36,6 @@ Predictive analytics and machine learning
 * Engineering: Data normalization and pipeline management (Pandas)
   
     [![Launch the Live Application](https://img.shields.io/badge/Streamlit-Launch%20the%20Live%20Application-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ligue-1-predictor.streamlit.app/)
-    [![Launch the live application](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ligue-1-predictor.streamlit.app/)
     [![Explore the Source Code](https://img.shields.io/badge/GitHub-Explore%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/Ligue-1)
 
 - ### **Mediation analysis with unmeasured confounding**
@@ -68,9 +67,10 @@ Key findings consistently demonstrate that Random Forests emerged as the most pe
      
 
 
-- ### **R package** [**MixLaw**](https://github.com/komiayi/MixLaw)
+- ### **R package** 
   A custom R package I developed for **modeling and simulating mixture distributions**. MixLaw provides a robust framework to generate observations, define density functions, and compute essential statistics such as means and quantiles for complex mixtures of various underlying distributions. This tool simplifies the handling of heterogeneous data structures in statistical modeling.
-    
+    [![MixLaw Package](https://img.shields.io/badge/R-MixLaw%20Package-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/komiayi/MixLaw)
+  
 ## Core Competencies
 - **Methodologies**: Causal mediation, Statistics
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL
