@@ -60,9 +60,9 @@ The central challenge addressed is the reduction of regression tree models' sens
 
 Key findings consistently demonstrate that Random Forests emerged as the most performant and stable method, significantly reducing the mean squared error and enhancing prediction robustness compared to individual regression trees. The technologies employed include the R programming language and the `rpart`, `randomForest`, `tidyverse` (for `dplyr` and `ggplot2`), and `ipred` packages.
 
-[![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/regression-trees-ensemble-methods)   
+     [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/regression-trees-ensemble-methods)   
      
-     [Detailed project report (PDF, in French)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)  
+     [![View PDF Report](https://img.shields.io/badge/PDF-Detailed%20Report-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)
 
 - ### **R package** [**MixLaw**](https://github.com/komiayi/MixLaw)
   A custom R package I developed for **modeling and simulating mixture distributions**. MixLaw provides a robust framework to generate observations, define density functions, and compute essential statistics such as means and quantiles for complex mixtures of various underlying distributions. This tool simplifies the handling of heterogeneous data structures in statistical modeling.
