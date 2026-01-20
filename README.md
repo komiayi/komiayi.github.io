@@ -44,7 +44,7 @@ This project addresses a major challenge in multiple mediation analysis: estimat
 
 Key Skills: Causal inference, advanced statistical modeling, R programming.
  
-   [![View detailed project](https://img.shields.io/badge/GitHub-Explore%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/dna_mediation)
+   [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/dna_mediation)
 
 - ### **Waze churn prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
