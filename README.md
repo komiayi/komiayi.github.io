@@ -13,8 +13,8 @@ My work reflects a commitment to rigorous methodology, innovation, and the pract
 
 Feel free to explore the repository and contact me for collaboration or opportunities.
 
-- **[Email](ayi1rogera@gmail.com)**
 - **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komi-ayi)**
+- **[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayi1rogera@gmail.com)**
 
 ## Achievements
 - Excellence scholarship from the Institut des Sciences Mathématiques du Québec (ISM) for research in causal mediation analysis (2022–2023).
