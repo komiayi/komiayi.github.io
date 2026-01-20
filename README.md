@@ -34,8 +34,10 @@ Predictive analytics and machine learning
 *Key Competencies: 
 * Modeling: Logistic regression (Scikit-Learn)
 * Engineering: Data normalization and pipeline management (Pandas)
-
-  **[![Launch the live application](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ligue-1-predictor.streamlit.app/)**  [![Explore the Source Code](https://img.shields.io/badge/GitHub-Explore%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/Ligue-1)
+  
+    [![Launch the Live Application](https://img.shields.io/badge/Streamlit-Launch%20the%20Live%20Application-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ligue-1-predictor.streamlit.app/)
+    [![Launch the live application](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ligue-1-predictor.streamlit.app/)
+    [![Explore the Source Code](https://img.shields.io/badge/GitHub-Explore%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/Ligue-1)
 
 - ### **Mediation analysis with unmeasured confounding**
 Domain: Biostatistics / Causal Modeling / Epigenetics
@@ -49,7 +51,7 @@ Key Skills: Causal inference, advanced statistical modeling, R programming.
 - ### **Waze churn prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
 
-   **[View project notebook](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)**
+   [![View Notebook](https://img.shields.io/badge/Jupyter-Project%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)
 
 
 - ### **Regression trees and ensemble methods: mean squared error and stability**
