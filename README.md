@@ -61,7 +61,7 @@ The central challenge addressed is the reduction of regression tree models' sens
 Key findings consistently demonstrate that Random Forests emerged as the most performant and stable method, significantly reducing the mean squared error and enhancing prediction robustness compared to individual regression trees. The technologies employed include the R programming language and the `rpart`, `randomForest`, `tidyverse` (for `dplyr` and `ggplot2`), and `ipred` packages.
 
  
-   [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/regression-tress-ensemble)
+   [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/regression-tress-ensemble-methods)
 
     
    [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/dna_mediation)
