@@ -15,6 +15,7 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 - **[Email](ayi1rogera@gmail.com)**
 - **[LinkedIn](www.linkedin.com/in/komi-ayi)**
+- **[LinkedIn](www.linkedin.com/in/komi-ayi)**
 
 ## Achievements
 - Excellence scholarship from the Institut des Sciences Mathématiques du Québec (ISM) for research in causal mediation analysis (2022–2023).
