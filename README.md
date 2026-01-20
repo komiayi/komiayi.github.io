@@ -68,8 +68,8 @@ Key findings consistently demonstrate that Random Forests emerged as the most pe
 - ### **R package**
 
 A custom R package I developed for **modeling and simulating mixture distributions**. MixLaw provides a robust framework to generate observations, define density functions, and compute essential statistics such as means and quantiles for complex mixtures of various underlying distributions. This tool simplifies the handling of heterogeneous data structures in statistical modeling.
-    
-    [![MixLaw Package](https://img.shields.io/badge/R-MixLaw%20Package-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/komiayi/MixLaw)
+
+[![MixLaw Package](https://img.shields.io/badge/R-MixLaw%20Package-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/komiayi/MixLaw)
   
 ## Core Competencies
 - **Methodologies**: Causal mediation, Statistics
