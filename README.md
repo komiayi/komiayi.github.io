@@ -60,8 +60,7 @@ This academic project delves into a comparative study of regression trees, Baggi
 The central challenge addressed is the reduction of regression tree models' sensitivity to data variations and the enhancement of their overall performance through aggregation techniques. This work showcases robust technical skills in predictive modeling (Regression Trees, Bagging, Random Forests), model evaluation (MSE, stability analysis), Monte Carlo simulation, and real-world data application, all implemented in R.
 
 Key findings consistently demonstrate that Random Forests emerged as the most performant and stable method, significantly reducing the mean squared error and enhancing prediction robustness compared to individual regression trees. The technologies employed include the R programming language and the `rpart`, `randomForest`, `tidyverse` (for `dplyr` and `ggplot2`), and `ipred` packages.
-
- 
+    
    [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/regression-trees-ensemble-methods)
    [![View PDF Report](https://img.shields.io/badge/PDF-Detailed%20Report-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)
      
