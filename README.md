@@ -62,8 +62,6 @@ Key findings consistently demonstrate that Random Forests emerged as the most pe
 
  
    [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/regression-trees-ensemble-methods)
-
-    
    [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/dna_mediation)
      
 
