@@ -31,7 +31,7 @@ Predictive analytics and machine learning
 
 *The Technical Edge.* The core of the application is a multinomial logistic Regression model developed with Scikit-Learn. It processes complex team metrics—such as offensive efficiency and defensive resilience—to output precise winning, drawing, and losing percentages. The interface is a custom-built Streamlit dashboard, optimized for both light and dark modes with professional branding.
 
-*Key Competencies: 
+**Key Competencies: 
   * Modeling: Logistic regression (Scikit-Learn)
   * Engineering: Data normalization and pipeline management (Pandas)
   
