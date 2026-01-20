@@ -1,5 +1,5 @@
 # Statistics and Data Analysis Portfolio – Komi Ayi  
-**Statistician | Data Analyst | Research & Innovation**
+**Statistician | Data Scientist | Research & Innovation**
 
 Welcome to my professional portfolio.
 
@@ -24,12 +24,19 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 ## Projects
 
-- ### **Ligue 1 match predictor (Season 2025-2026)**
+- ### **Ligue 1 strategic forecasting engine**
 
-Project Overview
+Predictive Analytics & Machine Learning (2025-2026 Season)
 
-I developed a professional statistical engine designed to forecast outcomes for the French Ligue 1 McDonald's. This project bridges the gap between raw football data and actionable insights, providing win/draw/loss probabilities for every matchup in the 2025-2026 season.
+*Project Overview* I engineered a high-performance predictive tool designed to quantify the probabilities of match outcomes for the French Ligue 1 McDonald's. By moving beyond traditional intuition-based analysis, this project leverages a data-driven approach to forecast results for the current 18-club elite season.
 
+*The Technical Edge* The core of the application is a Multinomial Logistic Regression model developed with Scikit-Learn. It processes complex team metrics—such as offensive efficiency and defensive resilience—to output precise winning, drawing, and losing percentages. The interface is a custom-built Streamlit dashboard, optimized for both light and dark modes with professional branding.
+
+Key Competencies: 
+* Modeling: Logistic Regression (Scikit-Learn)
+*Engineering: Data normalization and pipeline management (Pandas)
+
+ **👉[Launch the Live Application](https://ligue-1-predictor.streamlit.app/)**, [Launch the Live Application](https://ligue-1-predictor.streamlit.app/)
 
 
 - ### **Mediation analysis with unmeasured confounding**
