@@ -35,8 +35,8 @@ Predictive analytics and machine learning
   * Modeling: Logistic regression (Scikit-Learn)
   * Engineering: Data normalization and pipeline management (Pandas)
   
-    [![Launch the Live Application](https://img.shields.io/badge/Streamlit-Launch%20the%20Live%20Application-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ligue-1-predictor.streamlit.app/)
-    [![Explore the Source Code](https://img.shields.io/badge/GitHub-Explore%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/Ligue-1)
+    **[![Launch the Live Application](https://img.shields.io/badge/Streamlit-Launch%20the%20Live%20Application-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ligue-1-predictor.streamlit.app/)**
+    **[![Explore the Source Code](https://img.shields.io/badge/GitHub-Explore%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/Ligue-1)**
 
 - ### **Mediation analysis with unmeasured confounding**
 Domain: Biostatistics / Causal Modeling / Epigenetics
