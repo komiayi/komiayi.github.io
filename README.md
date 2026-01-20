@@ -24,6 +24,13 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 ## Projects
 
+- ### **Ligue 1 match predictor (Season 2025-2026)**
+
+Project Overview
+
+I developed a professional statistical engine designed to forecast outcomes for the French Ligue 1 McDonald's. This project bridges the gap between raw football data and actionable insights, providing win/draw/loss probabilities for every matchup in the 2025-2026 season.
+
+
 
 - ### **Mediation analysis with unmeasured confounding**
 Domain: Biostatistics / Causal Modeling / Epigenetics
