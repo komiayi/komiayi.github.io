@@ -49,7 +49,8 @@ Key Skills: Causal inference, advanced statistical modeling, R programming.
 
 - ### **Waze churn prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
-    [![View Notebook](https://img.shields.io/badge/Jupyter-Project%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)
+
+   [![View Notebook](https://img.shields.io/badge/Jupyter-Project%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)
 
 
 - ### **Regression trees and ensemble methods: mean squared error and stability**
@@ -59,13 +60,13 @@ This academic project delves into a comparative study of regression trees, Baggi
 The central challenge addressed is the reduction of regression tree models' sensitivity to data variations and the enhancement of their overall performance through aggregation techniques. This work showcases robust technical skills in predictive modeling (Regression Trees, Bagging, Random Forests), model evaluation (MSE, stability analysis), Monte Carlo simulation, and real-world data application, all implemented in R.
 
 Key findings consistently demonstrate that Random Forests emerged as the most performant and stable method, significantly reducing the mean squared error and enhancing prediction robustness compared to individual regression trees. The technologies employed include the R programming language and the `rpart`, `randomForest`, `tidyverse` (for `dplyr` and `ggplot2`), and `ipred` packages.
+    
     [![View detailed project](https://img.shields.io/badge/GitHub-View%20Detailed%20Project-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/regression-trees-ensemble-methods)
     [![View PDF Report](https://img.shields.io/badge/PDF-Detailed%20Report-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)
      
-
-
 - ### **R package** 
   A custom R package I developed for **modeling and simulating mixture distributions**. MixLaw provides a robust framework to generate observations, define density functions, and compute essential statistics such as means and quantiles for complex mixtures of various underlying distributions. This tool simplifies the handling of heterogeneous data structures in statistical modeling.
+    
     [![MixLaw Package](https://img.shields.io/badge/R-MixLaw%20Package-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/komiayi/MixLaw)
   
 ## Core Competencies
