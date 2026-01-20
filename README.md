@@ -28,9 +28,9 @@ Feel free to explore the repository and contact me for collaboration or opportun
 
 Predictive analytics and machine learning 
 
-*Project Overview* I engineered a high-performance predictive tool designed to quantify the probabilities of match outcomes for the French Ligue 1 McDonald's. By moving beyond traditional intuition-based analysis, this project leverages a data-driven approach to forecast results for the current 18-club elite season.
+*Project Overview.* I engineered a high-performance predictive tool designed to quantify the probabilities of match outcomes for the French Ligue 1 McDonald's. By moving beyond traditional intuition-based analysis, this project leverages a data-driven approach to forecast results for the current 18-club elite season.
 
-*The Technical Edge* The core of the application is a multinomial rogistic Regression model developed with Scikit-Learn. It processes complex team metrics—such as offensive efficiency and defensive resilience—to output precise winning, drawing, and losing percentages. The interface is a custom-built Streamlit dashboard, optimized for both light and dark modes with professional branding.
+*The Technical Edge.* The core of the application is a multinomial rogistic Regression model developed with Scikit-Learn. It processes complex team metrics—such as offensive efficiency and defensive resilience—to output precise winning, drawing, and losing percentages. The interface is a custom-built Streamlit dashboard, optimized for both light and dark modes with professional branding.
 
 Key Competencies: 
 * Modeling: Logistic Regression (Scikit-Learn)
