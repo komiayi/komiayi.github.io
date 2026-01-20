@@ -33,11 +33,10 @@ Predictive analytics and machine learning
 *The Technical Edge.* The core of the application is a multinomial logistic Regression model developed with Scikit-Learn. It processes complex team metrics—such as offensive efficiency and defensive resilience—to output precise winning, drawing, and losing percentages. The interface is a custom-built Streamlit dashboard, optimized for both light and dark modes with professional branding.
 
 *Key Competencies: 
-* Modeling: Logistic Regression (Scikit-Learn)
+* Modeling: Logistic regression (Scikit-Learn)
 * Engineering: Data normalization and pipeline management (Pandas)
 
- **[Launch the Live Application](https://ligue-1-predictor.streamlit.app/)**, [Launch the Live Application](https://ligue-1-predictor.streamlit.app/)
-
+**[![Launch the live application](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ligue-1-predictor.streamlit.app/)**,  [Launch the Live Application](https://ligue-1-predictor.streamlit.app/)
 
 - ### **Mediation analysis with unmeasured confounding**
 Domain: Biostatistics / Causal Modeling / Epigenetics
