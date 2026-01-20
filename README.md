@@ -36,7 +36,7 @@ Predictive analytics and machine learning
 * Modeling: Logistic Regression (Scikit-Learn)
 * Engineering: Data normalization and pipeline management (Pandas)
 
- **👉[Launch the Live Application](https://ligue-1-predictor.streamlit.app/)**, [Launch the Live Application](https://ligue-1-predictor.streamlit.app/)
+ **[Launch the Live Application](https://ligue-1-predictor.streamlit.app/)**, [Launch the Live Application](https://ligue-1-predictor.streamlit.app/)
 
 
 - ### **Mediation analysis with unmeasured confounding**
@@ -46,12 +46,12 @@ This project addresses a major challenge in multiple mediation analysis: estimat
 
 Key Skills: Causal inference, advanced statistical modeling, R programming.
 
- **👉[View detailed project](https://github.com/komiayi/dna_mediation)**  
+ **[View detailed project](https://github.com/komiayi/dna_mediation)**  
 
 - ### **Waze churn prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
 
-  **👉[View project notebook](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)**
+  **[View project notebook](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)**
 
 
 - ### **Regression trees and ensemble methods: mean squared error and stability**
@@ -62,7 +62,7 @@ The central challenge addressed is the reduction of regression tree models' sens
 
 Key findings consistently demonstrate that Random Forests emerged as the most performant and stable method, significantly reducing the mean squared error and enhancing prediction robustness compared to individual regression trees. The technologies employed include the R programming language and the `rpart`, `randomForest`, `tidyverse` (for `dplyr` and `ggplot2`), and `ipred` packages.
 
-  **👉[View detailed project](https://github.com/komiayi/regression-trees-ensemble-methods)** , [Detailed project report (PDF, in French)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)  
+  **[View detailed project](https://github.com/komiayi/regression-trees-ensemble-methods)** , [Detailed project report (PDF, in French)](https://github.com/komiayi/regression-trees-ensemble-methods/blob/main/docs/ProjetMAT8886.pdf)  
 
 - ### **R package** [**MixLaw**](https://github.com/komiayi/MixLaw)
   A custom R package I developed for **modeling and simulating mixture distributions**. MixLaw provides a robust framework to generate observations, define density functions, and compute essential statistics such as means and quantiles for complex mixtures of various underlying distributions. This tool simplifies the handling of heterogeneous data structures in statistical modeling.
