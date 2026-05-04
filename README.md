@@ -50,7 +50,7 @@ Key Skills: Causal inference, advanced statistical modeling, R programming.
 - ### **Waze churn prediction**
 A clean and well-structured Jupyter Notebook project that predicts users at high risk of churn using machine learning. The workflow covers data preprocessing, feature engineering, and model training with Random Forest and XGBoost. A dynamic threshold optimization approach is applied to balance precision and recall, maximizing the F1-score. Model interpretability is addressed through feature importance analysis of the best-performing model.
 
-   [![View Notebook](https://img.shields.io/badge/Jupyter-Project%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/komiayi/churn-waze-prediction-/blob/main/notebooks/Waze%20ML(1).ipynb)
+   [![View Notebook](https://img.shields.io/badge/Jupyter-Project%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/komiayi/churn-waze-prediction/blob/main/notebooks/Waze_ML.ipynb)
 
 
 - ### **Regression trees and ensemble methods: mean squared error and stability**
