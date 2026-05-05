@@ -1,6 +1,6 @@
-# Statistics and Data Science Portfolio — Komi Roger Ayi
+# Statistics and Data Science Portfolio – Komi Roger Ayi
 
-**Biostatistician · Data Scientist — Causal modeling & predictive analytics**
+**Biostatistician · Data Scientist – Causal modeling & predictive analytics**
 
 Welcome to my professional portfolio.
 
@@ -21,7 +21,7 @@ My work reflects a commitment to **rigorous methodology**, **reproducibility**, 
 **[*Analyse de médiation causale pour des médiateurs non causalement liés*](https://archipel.uqam.ca/19950)**
 *Causal mediation analysis for non-causally-linked mediators.*
 
-Master's thesis in Statistics, **Université du Québec à Montréal**, defended in **2025** under the supervision of **Professor Karim Oualkacha** (Department of Mathematics, UQAM). The thesis develops two original parametric methods — CC (Constant Correlation) and CNC (Non-Constant Correlation) — for estimating natural direct and indirect effects when mediators are correlated through an unmeasured common cause, rather than through a direct causal pathway.
+Master's thesis in Statistics, **Université du Québec à Montréal**, defended in **2025** under the supervision of **Professor Karim Oualkacha** (Department of Mathematics, UQAM). The thesis develops two original parametric methods – CC (Constant Correlation) and CNC (Non-Constant Correlation) – for estimating natural direct and indirect effects when mediators are correlated through an unmeasured common cause, rather than through a direct causal pathway.
 
 The methods were validated on a real-world application linking **childhood trauma**, **DNA methylation**, and **cortisol stress reactivity**, and have been operationalized through a dedicated R Shiny application (see the `rbcm` project below).
 
@@ -29,7 +29,7 @@ The methods were validated on a real-world application linking **childhood traum
 [![Companion R Shiny tool](https://img.shields.io/badge/Companion%20tool-rbcm-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/komiayi/rbcm)
 
 ### Associated presentations
-- ESPUM Symposium — Quantitative Methods in Health Research (2025)
+- ESPUM Symposium – Quantitative Methods in Health Research (2025)
 - Mediation Research Days, UQAM (2024)
 - SSC Annual Meeting, Carleton University, Ottawa (2023)
 
@@ -38,7 +38,7 @@ The methods were validated on a real-world application linking **childhood traum
 ## Achievements
 
 - **Excellence Scholarship**, *Institut des Sciences Mathématiques du Québec* (ISM), for research in causal mediation analysis (2022–2023).
-- **Recruitment Scholarship**, *STATQAM — Faculty Research Center in Statistics and Data Science*, UQAM (2021).
+- **Recruitment Scholarship**, *STATQAM – Faculty Research Center in Statistics and Data Science*, UQAM (2021).
 - **Excellence Scholarship**, *African Center of Excellence in Mathematical Sciences and Applications* (funded by the World Bank), for research on the controllability of integro-differential equations at the *Institute of Mathematics and Physical Sciences* (2018–2019).
 - **ERMIT Program Scholarship** (Entrepreneurship, Resources, Management, Innovation, and Technologies) for the Master's degree in Statistics–Probability (2015–2017).
 
@@ -60,13 +60,13 @@ The package follows CRAN-style structure with a full `DESCRIPTION`, `R/`, `tests
 
 ---
 
-### Ligue 1 strategic forecasting engine — Season 2025–2026
+### Ligue 1 strategic forecasting engine – Season 2025–2026
 
 *Predictive analytics · Machine learning · Live web application*
 
 A high-performance predictive tool that quantifies the probabilities of match outcomes for the French Ligue 1. By moving beyond intuition-based analysis, this project leverages a data-driven approach to forecast results across the current 18-club season.
 
-The core of the application is a **multinomial logistic regression model** developed with Scikit-Learn. It processes team-level performance metrics — such as offensive efficiency and defensive resilience — to output calibrated win/draw/loss probabilities. The interface is a custom-built **Streamlit dashboard** with light/dark theme support.
+The core of the application is a **multinomial logistic regression model** developed with Scikit-Learn. It processes team-level performance metrics — such as offensive efficiency and defensive resilience – to output calibrated win/draw/loss probabilities. The interface is a custom-built **Streamlit dashboard** with light/dark theme support.
 
 **Key competencies:** Multinomial logistic regression (Scikit-Learn) · Data normalization and pipeline management (Pandas) · Streamlit deployment.
 
@@ -79,7 +79,7 @@ The core of the application is a **multinomial logistic regression model** devel
 
 *Biostatistics · Causal modeling · Epigenetics*
 
-A research project addressing a major challenge in multiple mediation analysis: estimating effects accurately when mediators are correlated through an unmeasured common cause. Two advanced parametric methods — **CC** and **CNC** — are applied and evaluated to analyze the influence of childhood trauma on cortisol stress reactivity via DNA methylation. The implementation successfully corrects for confounding bias and confirms the robustness of a significant direct causal effect.
+A research project addressing a major challenge in multiple mediation analysis: estimating effects accurately when mediators are correlated through an unmeasured common cause. Two advanced parametric methods – CC and CNC — are applied and evaluated to analyze the influence of childhood trauma on cortisol stress reactivity via DNA methylation. The implementation successfully corrects for confounding bias and confirms the robustness of a significant direct causal effect.
 
 This project provides the empirical application of the methods developed in my Master's thesis. The interactive implementation is available in the `rbcm` project above.
 
@@ -125,7 +125,7 @@ Key findings: Random Forest reduces MSE by ~53% relative to a single regression 
 
 A custom R package implementing an **S3 class hierarchy** for probability distribution mixtures, with methods for random sampling, density visualization, and basic descriptive statistics. Includes a specialized subclass for mixtures of normal distributions, full roxygen2 documentation, and unit tests with `testthat`.
 
-Developed for the graduate course **MAT8186 — Techniques avancées en programmation statistique : R** at UQAM.
+Developed for the graduate course **MAT8186 – Techniques avancées en programmation statistique : R** at UQAM.
 
 **Key competencies:** R package authoring · S3 dispatch · roxygen2 · testthat.
 
