@@ -66,7 +66,7 @@ The package follows CRAN-style structure with a full `DESCRIPTION`, `R/`, `tests
 
 A high-performance predictive tool that quantifies the probabilities of match outcomes for the French Ligue 1. By moving beyond intuition-based analysis, this project leverages a data-driven approach to forecast results across the current 18-club season.
 
-The core of the application is a **multinomial logistic regression model** developed with Scikit-Learn. It processes team-level performance metrics — such as offensive efficiency and defensive resilience – to output calibrated win/draw/loss probabilities. The interface is a custom-built **Streamlit dashboard** with light/dark theme support.
+The core of the application is a **multinomial logistic regression model** developed with Scikit-Learn. It processes team-level performance metrics – such as offensive efficiency and defensive resilience – to output calibrated win/draw/loss probabilities. The interface is a custom-built **Streamlit dashboard** with light/dark theme support.
 
 **Key competencies:** Multinomial logistic regression (Scikit-Learn) · Data normalization and pipeline management (Pandas) · Streamlit deployment.
 
@@ -79,7 +79,7 @@ The core of the application is a **multinomial logistic regression model** devel
 
 *Biostatistics · Causal modeling · Epigenetics*
 
-A research project addressing a major challenge in multiple mediation analysis: estimating effects accurately when mediators are correlated through an unmeasured common cause. Two advanced parametric methods – CC and CNC — are applied and evaluated to analyze the influence of childhood trauma on cortisol stress reactivity via DNA methylation. The implementation successfully corrects for confounding bias and confirms the robustness of a significant direct causal effect.
+A research project addressing a major challenge in multiple mediation analysis: estimating effects accurately when mediators are correlated through an unmeasured common cause. Two advanced parametric methods – CC and CNC – are applied and evaluated to analyze the influence of childhood trauma on cortisol stress reactivity via DNA methylation. The implementation successfully corrects for confounding bias and confirms the robustness of a significant direct causal effect.
 
 This project provides the empirical application of the methods developed in my Master's thesis. The interactive implementation is available in the `rbcm` project above.
 
