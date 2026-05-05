@@ -8,7 +8,7 @@ I am a statistician with a strong academic background in mathematics and a speci
 
 This portfolio presents a curated selection of my academic, research, and personal projects in data analysis, statistical modeling, predictive analytics, and causal inference. It also documents my technical skills, certifications, and academic distinctions.
 
-My work reflects a commitment to **rigorous methodology**, **reproducibility**, and the practical use of data to support decision-making — particularly in public health and applied research contexts.
+My work reflects a commitment to **rigorous methodology**, **reproducibility**, and the practical use of data to support decision-making –particularly in public health and applied research contexts.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komi-ayi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayi1rogera@gmail.com)
