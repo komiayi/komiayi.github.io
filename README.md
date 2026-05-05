@@ -46,7 +46,7 @@ The methods were validated on a real-world application linking **childhood traum
 
 ## Projects
 
-### rbcm — R Shiny application for causal mediation
+### rbcm – R Shiny application for causal mediation
 
 *R Shiny · Statistical software · Biostatistics*
 
@@ -93,7 +93,7 @@ This project provides the empirical application of the methods developed in my M
 
 *Machine learning · Imbalanced classification · Threshold optimization*
 
-A supervised learning pipeline that predicts which Waze users are at risk of churning, based on behavioral features. **Three tree-based models** are compared — Decision Tree, Random Forest, and XGBoost — with explicit handling of the moderate class imbalance (18% churners) through `class_weight="balanced"` and `scale_pos_weight`.
+A supervised learning pipeline that predicts which Waze users are at risk of churning, based on behavioral features. **Three tree-based models** are compared – Decision Tree, Random Forest, and XGBoost – with explicit handling of the moderate class imbalance (18% churners) through `class_weight="balanced"` and `scale_pos_weight`.
 
 The project includes an explicit **ethical analysis of error costs** (false negatives vs false positives) that guides the choice of recall as the primary evaluation metric, and a **decision-threshold optimization** step on the validation set to refine the precision–recall trade-off. The final XGBoost model achieves a **recall of 0.64** at an optimized threshold of 0.49.
 
@@ -104,7 +104,7 @@ The project includes an explicit **ethical analysis of error costs** (false nega
 
 ---
 
-### Regression trees and ensemble methods — MSE and stability
+### Regression trees and ensemble methods – MSE and stability
 
 *Statistical learning · Monte Carlo simulation · R*
 
@@ -119,7 +119,7 @@ Key findings: Random Forest reduces MSE by ~53% relative to a single regression 
 
 ---
 
-### MixLaw — R package for mixture distributions
+### MixLaw – R package for mixture distributions
 
 *R package development · S3 object-oriented programming · Documentation*
 
