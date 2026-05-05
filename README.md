@@ -21,7 +21,7 @@ My work reflects a commitment to **rigorous methodology**, **reproducibility**, 
 **[*Analyse de médiation causale pour des médiateurs non causalement liés*](https://archipel.uqam.ca/19950)**
 *Causal mediation analysis for non-causally-linked mediators.*
 
-Master's thesis in Statistics, **Université du Québec à Montréal**, defended in 2025 under the supervision of Professor Karim Oualkacha, with co-supervision by Professor Geneviève Lefebvre (both Department of Mathematics, UQAM). The thesis develops two original parametric methods – CC (Constant Correlation) and CNC (Non-Constant Correlation) – for estimating natural direct and indirect effects when mediators are correlated through an unmeasured common cause, rather than through a direct causal pathway.
+Master's thesis in Statistics, **Université du Québec à Montréal**, defended in October 2025 under the supervision of Professor Karim Oualkacha, with co-supervision by Professor Geneviève Lefebvre (both Department of Mathematics, UQAM). The thesis develops two original parametric methods – CC (Constant Correlation) and CNC (Non-Constant Correlation) – for estimating natural direct and indirect effects when mediators are correlated through an unmeasured common cause, rather than through a direct causal pathway.
 
 The methods were validated on a real-world application linking **childhood trauma**, **DNA methylation**, and **cortisol stress reactivity**, and have been operationalized through a dedicated R Shiny application (see the `rbcm` project below).
 
