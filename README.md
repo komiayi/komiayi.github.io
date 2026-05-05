@@ -1,6 +1,6 @@
-# Statistics and Data Science Portfolio — Komi Roger Ayi
+# Statistics and Data Science Portfolio – Komi Roger Ayi
 
-**Biostatistician · Data Scientist — Causal modeling & predictive analytics**
+**Biostatistician · Data Scientist – Causal modeling & predictive analytics**
 
 Welcome to my professional portfolio.
 
