@@ -1,6 +1,6 @@
-# Statistics and Data Science Portfolio – Komi Roger Ayi
+# Statistics and Data Science Portfolio — Komi Roger Ayi
 
-**Biostatistician · Data Scientist – Causal modeling & predictive analytics**
+**Biostatistician · Data Scientist — Causal modeling & predictive analytics**
 
 Welcome to my professional portfolio.
 
@@ -16,14 +16,14 @@ My work reflects a commitment to **rigorous methodology**, **reproducibility**, 
 
 ---
 
-## 🎓 Master's Thesis
+## Master's Thesis
 
 **[*Analyse de médiation causale pour des médiateurs non causalement liés*](https://archipel.uqam.ca/19950)**
 *Causal mediation analysis for non-causally-linked mediators.*
 
 Master's thesis in Statistics, **Université du Québec à Montréal**, defended in **2025** under the supervision of **Professor Karim Oualkacha** (Department of Mathematics, UQAM). The thesis develops two original parametric methods — CC (Constant Correlation) and CNC (Non-Constant Correlation) — for estimating natural direct and indirect effects when mediators are correlated through an unmeasured common cause, rather than through a direct causal pathway.
 
-The methods were validated on a real-world application linking **childhood trauma**, **DNA methylation**, and **cortisol stress reactivity**, and have been implemented in an interactive R Shiny tool to make them accessible to applied researchers.
+The methods were validated on a real-world application linking **childhood trauma**, **DNA methylation**, and **cortisol stress reactivity**, and have been operationalized through a dedicated R Shiny application (see the `rbcm` project below).
 
 [![Read on Archipel UQAM](https://img.shields.io/badge/Archipel%20UQAM-Read%20the%20thesis-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://archipel.uqam.ca/19950)
 [![Companion R Shiny tool](https://img.shields.io/badge/Companion%20tool-rbcm-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/komiayi/rbcm)
@@ -35,7 +35,7 @@ The methods were validated on a real-world application linking **childhood traum
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - **Excellence Scholarship**, *Institut des Sciences Mathématiques du Québec* (ISM), for research in causal mediation analysis (2022–2023).
 - **Recruitment Scholarship**, *STATQAM — Faculty Research Center in Statistics and Data Science*, UQAM (2021).
@@ -44,9 +44,23 @@ The methods were validated on a real-world application linking **childhood traum
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### ⚽ Ligue 1 strategic forecasting engine — Season 2025–2026
+### rbcm — R Shiny application for causal mediation
+
+*R Shiny · Statistical software · Biostatistics*
+
+An R Shiny application implementing the **CC** and **CNC** methods developed in my Master's thesis, designed to make these techniques accessible to applied researchers without requiring advanced R programming skills. The interface integrates data import, assumption checking, parametric estimation of natural direct and indirect effects, and interactive visualization within a single workflow.
+
+The package follows CRAN-style structure with a full `DESCRIPTION`, `R/`, `tests/`, MIT license, and a `CITATION.cff` file enabling academic citation. Active development is currently focused on optimizing the estimators for large-dimensional matrices.
+
+**Key competencies:** R Shiny development · S3 object-oriented design · Software packaging · Numerical optimization.
+
+[![Source code](https://img.shields.io/badge/GitHub-Source%20code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/rbcm)
+
+---
+
+### Ligue 1 strategic forecasting engine — Season 2025–2026
 
 *Predictive analytics · Machine learning · Live web application*
 
@@ -61,13 +75,13 @@ The core of the application is a **multinomial logistic regression model** devel
 
 ---
 
-### 🧬 Mediation analysis with unmeasured confounding
+### Mediation analysis with unmeasured confounding
 
 *Biostatistics · Causal modeling · Epigenetics*
 
 A research project addressing a major challenge in multiple mediation analysis: estimating effects accurately when mediators are correlated through an unmeasured common cause. Two advanced parametric methods — **CC** and **CNC** — are applied and evaluated to analyze the influence of childhood trauma on cortisol stress reactivity via DNA methylation. The implementation successfully corrects for confounding bias and confirms the robustness of a significant direct causal effect.
 
-This project provides the empirical application of the methods developed in my Master's thesis. A companion R Shiny tool (`rbcm`) implements the same methods interactively.
+This project provides the empirical application of the methods developed in my Master's thesis. The interactive implementation is available in the `rbcm` project above.
 
 **Key competencies:** Causal inference · Advanced statistical modeling · R programming.
 
@@ -75,21 +89,7 @@ This project provides the empirical application of the methods developed in my M
 
 ---
 
-### 🛠️ rbcm — R Shiny application for causal mediation
-
-*R Shiny · Statistical software · Biostatistics*
-
-An R Shiny application implementing the **CC** and **CNC** methods developed in my Master's thesis, designed to make these techniques accessible to applied researchers without requiring advanced R programming skills. The interface integrates data import, assumption checking, parametric estimation, and interactive visualization within a single workflow.
-
-The package follows CRAN-style structure with a full `DESCRIPTION`, `R/`, `tests/`, MIT license, and a `CITATION.cff` file enabling academic citation.
-
-**Key competencies:** R Shiny development · S3 object-oriented design · Software packaging.
-
-[![Source code](https://img.shields.io/badge/GitHub-Source%20code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/rbcm)
-
----
-
-### 📉 Waze user churn prediction
+### Waze user churn prediction
 
 *Machine learning · Imbalanced classification · Threshold optimization*
 
@@ -104,7 +104,7 @@ The project includes an explicit **ethical analysis of error costs** (false nega
 
 ---
 
-### 🌳 Regression trees and ensemble methods — MSE and stability
+### Regression trees and ensemble methods — MSE and stability
 
 *Statistical learning · Monte Carlo simulation · R*
 
@@ -119,7 +119,7 @@ Key findings: Random Forest reduces MSE by ~53% relative to a single regression 
 
 ---
 
-### 📦 MixLaw — R package for mixture distributions
+### MixLaw — R package for mixture distributions
 
 *R package development · S3 object-oriented programming · Documentation*
 
@@ -133,7 +133,7 @@ Developed for the graduate course **MAT8186 — Techniques avancées en programm
 
 ---
 
-## 🛠️ Core competencies
+## Core competencies
 
 - **Methodologies:** Causal mediation analysis · Predictive modeling · Statistical inference · Monte Carlo simulation · Imbalanced classification.
 - **Languages:** Python (Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, Streamlit) · R (dplyr, tidyr, caret, ggplot2, rpart, randomForest, Shiny) · SQL.
@@ -141,7 +141,7 @@ Developed for the graduate course **MAT8186 — Techniques avancées en programm
 
 ---
 
-## 📚 Certifications
+## Certifications
 
 - **[Google Advanced Data Analytics — Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/93YW7B6ODR0U)**
   - [Google Advanced Data Analytics Capstone](https://www.coursera.org/account/accomplishments/verify/HEFB7OM479ZC)
@@ -156,7 +156,7 @@ Developed for the graduate course **MAT8186 — Techniques avancées en programm
 
 ---
 
-## 📬 Contact
+## Contact
 
 I am currently open to data science, biostatistics, and applied research opportunities.
 
