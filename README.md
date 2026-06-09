@@ -59,6 +59,21 @@ The package follows CRAN-style structure with a full `DESCRIPTION`, `R/`, `tests
 [![Source code](https://img.shields.io/badge/GitHub-Source%20code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/rbcm)
 
 ---
+### COVID-19 Québec dashboard – Wave-by-wave analysis
+
+*Business intelligence · Public health analytics · Open data*
+
+A complete Power BI dashboard analyzing the evolution of the COVID-19 pandemic in Québec across the first seven waves and the transitional endemic period (February 2020 – September 2023), using open data published by the **Institut national de santé publique du Québec (INSPQ)**. The project compares six health indicators – confirmed cases, deaths, three types of hospitalizations, and recoveries – by **age group**, **sex** and **period**, to identify the most vulnerable populations and track epidemiological trends over time.
+
+The main technical contribution is a robust data engineering pipeline built in **Power Query (M language)** to handle a deliberately tricky source structure: duplicate column names, sex encoded in headers instead of as a variable, and indicators identifiable only by column position. Two reusable parameterized M functions (`fnBloc` and `fnBlocRetablis`) dynamically restructure each indicator block from its starting position into a clean long-format table. The result feeds a properly designed **star schema** with one fact table (~1 500 rows) and four dimension tables, ready for DAX measures and interactive visualization.
+
+The project loads all data directly from INSPQ URLs (no local files), making the pipeline fully reproducible and refreshable. The codebase is documented for transparency and pedagogical value.
+
+**Key competencies:** Power BI · Power Query (M) · DAX · Star schema modeling · ETL pipeline design · Open data integration · Public health domain.
+
+[![Source code](https://img.shields.io/badge/GitHub-Source%20code-181717?style=for-the-badge&logo=github)](https://github.com/komiayi/covid-19-quebec-powerbi) [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20(coming%20soon)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/komiayi/covid-19-quebec-powerbi)
+
+---
 
 ### Ligue 1 strategic forecasting engine – Season 2025–2026
 
