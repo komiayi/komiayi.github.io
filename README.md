@@ -152,7 +152,7 @@ Developed for the graduate course **MAT8186 – Techniques avancées en programm
 
 - **Methodologies:** Causal mediation analysis · Predictive modeling · Statistical inference · Monte Carlo simulation · Imbalanced classification.
 - **Languages:** Python (Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, Streamlit) · R (dplyr, tidyr, caret, ggplot2, rpart, randomForest, Shiny) · SQL.
-- **Tools:** Git/GitHub · SQLiteStudio · Tableau · Jupyter · RStudio · LaTeX.
+- **Tools:** Power BI (Power Query M, DAX) · Tableau · Git/GitHub · MySQL · Jupyter · RStudio · LaTeX.
 
 ---
 
